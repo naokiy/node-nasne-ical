@@ -1,0 +1,20 @@
+{
+  "name": "node-nasne-ical",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naokiy/node-nasne-ical.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "*",
+    "icalendar": "*"
+  }
+}

@@ -14,6 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "lodash": "*",
     "commander": "*",
     "icalendar": "*"
   }
